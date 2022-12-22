@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-08T23:06:17.201449332Z</date>
+  <millis>1670540777201</millis>
+  <nanos>449332</nanos>
+  <sequence>1</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingBefore</method>
+  <thread>1</thread>
+  <message>------------------------[Ljava.lang.Object;@6933b6c6------------------------------</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:17.206463568Z</date>
+  <millis>1670540777206</millis>
+  <nanos>463568</nanos>
+  <sequence>2</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingBefore</method>
+  <thread>1</thread>
+  <message>Before method addCompte</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:17.207006627Z</date>
+  <millis>1670540777207</millis>
+  <nanos>6627</nanos>
+  <sequence>3</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingBefore</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:17.207548686Z</date>
+  <millis>1670540777207</millis>
+  <nanos>548686</nanos>
+  <sequence>4</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingAfter</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:17.208044273Z</date>
+  <millis>1670540777208</millis>
+  <nanos>44273</nanos>
+  <sequence>5</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingAfter</method>
+  <thread>1</thread>
+  <message>After method addCompte</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:17.212185732Z</date>
+  <millis>1670540777212</millis>
+  <nanos>185732</nanos>
+  <sequence>6</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingAfter</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:30.108987693Z</date>
+  <millis>1670540790108</millis>
+  <nanos>987693</nanos>
+  <sequence>7</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingBefore</method>
+  <thread>1</thread>
+  <message>------------------------[Ljava.lang.Object;@41330d4f------------------------------</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:30.109484716Z</date>
+  <millis>1670540790109</millis>
+  <nanos>484716</nanos>
+  <sequence>8</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingBefore</method>
+  <thread>1</thread>
+  <message>Before method consulter</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:30.109843723Z</date>
+  <millis>1670540790109</millis>
+  <nanos>843723</nanos>
+  <sequence>9</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingBefore</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:30.113989672Z</date>
+  <millis>1670540790113</millis>
+  <nanos>989672</nanos>
+  <sequence>10</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingAfter</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:30.114399877Z</date>
+  <millis>1670540790114</millis>
+  <nanos>399877</nanos>
+  <sequence>11</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingAfter</method>
+  <thread>1</thread>
+  <message>After method consulter</message>
+</record>
+<record>
+  <date>2022-12-08T23:06:30.114718539Z</date>
+  <millis>1670540790114</millis>
+  <nanos>718539</nanos>
+  <sequence>12</sequence>
+  <logger>me.boujdi.metier.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>me.boujdi.metier.aspects.LoggingAspect</class>
+  <method>loggingAfter</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------</message>
+</record>
+</log>
